@@ -52,12 +52,3 @@ exclude:
   - LICENSE
   - README.md
 
-
-  colors:
-    primary_bg: "#0055A4"
-    primary_bg_2: "#DDEEFF"
-    primary_text: "#FFFFFF"
-    base_bg: "#F5F8FA"
-    base_text: "#1A1A1A"
-    logo_text: "#0055A4"
-    header_text: "#003366"
