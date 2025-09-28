@@ -1,4 +1,6 @@
-baseurl: '/'
+url: "https://johanndorn.github.io"
+baseurl: '/energieberatung-dorn2.de'
+
 permalink: pretty
 title: 'Jekyll Serif'
 
