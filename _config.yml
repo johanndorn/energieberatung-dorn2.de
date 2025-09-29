@@ -2,7 +2,7 @@ url: "https://johanndorn.github.io"
 baseurl: '/energieberatung-dorn2.de'
 
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Energieberatung Dorn'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
