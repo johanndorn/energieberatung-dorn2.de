@@ -3,8 +3,8 @@
 
 // Colors
 $primary: #00508C;    //#e5261f;
-$primary-dark: #00508C;     //a01b16;
-$secondary: #f88379;
+$primary-dark: #EB6C43;     //a01b16;
+$secondary: #08B1B7;  08B1B7
 $black: #2f2f41;
 $white: #ffffff;
 $white-offset: #E6E000; //fff6f8;
@@ -21,9 +21,9 @@ $font-family-base: Helvetica, Arial, sans-serif, -apple-system;
 $font-family-heading: "Playfair Display", serif, -apple-system;
 
 // Footer
-$footer-background-color: $primary;
+$footer-background-color: $secondary;
 $footer-text-color: $white;
-$sub-footer-background-color: darken($primary, 10%);
+$sub-footer-background-color: darken($secondary, 10%);
 $sub-footer-text-color: $white;
 
 // Bootstrap 5.3.2
